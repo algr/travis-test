@@ -1,0 +1,3 @@
+#!/bin/sh
+
+# Null ./configure script to keep Travis CI happy
