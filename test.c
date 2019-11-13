@@ -4,6 +4,6 @@
 int main(void)
 {
   printf("Hello world!\n");
-  printf("Can we test this change?\n");
+  printf("Letter A is 0x%02X\n", (unsigned int)'A');
   return EXIT_SUCCESS;
 }
